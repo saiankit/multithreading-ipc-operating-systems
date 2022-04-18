@@ -1,0 +1,5 @@
+hundred.txt 5106395278
+thousand.txt 49244668170
+tenthousand.txt 50005000
+onelakh.txt 5009212944853
+onemil.txt 4999769629292
